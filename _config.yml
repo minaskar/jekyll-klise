@@ -80,3 +80,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
+  - jekyll-paginate
+  
+paginate: 5
+
