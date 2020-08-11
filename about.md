@@ -1,8 +1,8 @@
 ---
-title: Colophon
+title: Minas Karamanis
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hello people, I’m a PhD student at the Institute for Astronomy (IfA) at the University of Edinburgh studying the Large-Scale Structure of the Universe.
 comments: false
 ---
 
